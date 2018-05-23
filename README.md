@@ -3,7 +3,7 @@ My personal/portfolio website. Designed and build in less then a day. More featu
 
 ### build with/tools used
 - React
-- Styled component
+- Styled components
 - Rebass
 - Webpack
 - Babel

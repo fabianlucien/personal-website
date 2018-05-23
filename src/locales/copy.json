@@ -1,0 +1,254 @@
+{
+  "stampix": {
+    "header": "Stampix - Product",
+    "tags": [
+      {
+        "key": "s1",
+        "text": "UX/UI design",
+        "bgColor": "#1f445d"
+      },
+      {
+        "key": "s2",
+        "text": "frontend dev",
+        "bgColor": "#59278f"
+      },
+      {
+        "key": "s3",
+        "text": "product management",
+        "bgColor": "#312c2c"
+      },
+      {
+        "key": "s4",
+        "text": "React",
+        "bgColor": "#3163a5"
+      },
+      {
+        "key": "s5",
+        "text": "Styled Components (css-in-js)",
+        "bgColor": "#de85b2"
+      },
+      {
+        "key": "s6",
+        "text": "NodeJS",
+        "bgColor": "#9bb1b4"
+      }
+    ],
+    "body":
+      "Stampix is a Belgium startup that allows users to order and print their photos for free. At Stampix, I focus on UX/UI, frontend development, product management and anything else that needs to be picked up in this startup. Recently, I redesigned and built Stampix's web app and business pages. The web app is currently in use by big Belgium brands such as Vente-Exclusive, Luminus and KBC",
+    "linkText": "Live example of Stampix's new business case page",
+    "link": "https://stampix-tests.surge.sh/"
+  },
+  "publitas": {
+    "header": "Publitas - Junior QA",
+    "tags": [
+      {
+        "key": "p1",
+        "text": "QA",
+        "bgColor": "#1d273c"
+      },
+      {
+        "key": "p2",
+        "text": "Organizing meetups",
+        "bgColor": "#8b34f3"
+      },
+      {
+        "key": "p3",
+        "text": "Selenium",
+        "bgColor": "#0bc76d"
+      }
+    ],
+    "body":
+      "Publitas helps brands publish their catalogs online to deliver beautiful shoppable experiences. During my studies, I worked two days a week at Publitas. I was responsible for the planning and execution of tests, tracking and documenting bugs, regression testing, creating manual and Selenium tests (JavaScript), hosting meetups and improving company culture. Publitas taught me more about Lean, Agile and Getting Things Done (making me an Asana Master).",
+    "linkText": "Learn more about Publitas",
+    "link": "https://publitas.com"
+  },
+  "coffeecompany": {
+    "header": "CoffeeCompany - Developer and Coffee roaster",
+    "tags": [
+      {
+        "key": "cc1",
+        "text": "prototyping",
+        "bgColor": "#243643"
+      },
+      {
+        "key": "cc2",
+        "text": "a coffee roasting developer",
+        "bgColor": "#8b34f3"
+      },
+      {
+        "key": "cc3",
+        "text": "UX/UI design",
+        "bgColor": "#0bc76d"
+      }
+    ],
+    "body":
+      "For years, I worked in the coffee industry. I started out working as a barista and in 2017 I left CoffeeCompany as a coffee roaster and web developer. For Coffeecompany, I designed and built a supply chain system that allowed them to supply over 30 stories for over three years. Additionally, I built small protoypes for different type of problems (the image shows a declaration app that I tested with several store managers).  The most challenging coffees I roasted were coffees from Guatemala (as the Pacamara bean is very big) and Gesha (which you do not want to mess up).",
+    "linkText": "Try out CoffeeCompany's coffee from Peru",
+    "link": "https://coffeecompany.nl"
+  },
+  "musician": {
+    "header": "The Bohemes - Professional drummer in a rock 'n roll band",
+    "tags": [
+      {
+        "key": "d1",
+        "text": "rock",
+        "bgColor": "#040c14"
+      },
+      {
+        "key": "d2",
+        "text": "and",
+        "bgColor": "#080e4e"
+      },
+      {
+        "key": "d3",
+        "text": "roll",
+        "bgColor": "#e8c81a"
+      },
+      {
+        "key": "d4",
+        "text": "small business owner",
+        "bgColor": "#04a489"
+      },
+      {
+        "key": "d5",
+        "text": "first website designs",
+        "bgColor": "#a83741"
+      }
+    ],
+    "body":
+      "From 2008 till 2011 I was a full-time musician. I played in a Dutch indie band called the Bohemes. With the Bohemes, I played shows in London and did a big club tour with Bettie Serveert and released three records. Besides playing music, I had a small business for drumming lessons, worked in a record store and worked as a barista.",
+    "linkText": "Listen to music of the Bohemes",
+    "link": "https://www.youtube.com/watch?v=q7Quj1m2Fdg"
+  },
+  "education": {
+    "header": "BSc Lifestyle Informatics - VU University, Amsterdam",
+    "tags": [
+      {
+        "key": "e1",
+        "text": "machine learning",
+        "bgColor": "#818181"
+      },
+      {
+        "key": "e2",
+        "text": "text mining",
+        "bgColor": "#299987"
+      },
+      {
+        "key": "e3",
+        "text": "persuasive technology",
+        "bgColor": "#fc8b8b"
+      },
+      {
+        "key": "e4",
+        "text": "python",
+        "bgColor": "#1a1a1a"
+      },
+      {
+        "key": "e5",
+        "text": "behavior psychology",
+        "bgColor": "#244c9d"
+      },
+      {
+        "key": "e6",
+        "text": "Android development",
+        "bgColor": "#73b257"
+      },
+      {
+        "key": "e7",
+        "text": "user onboarding",
+        "bgColor": "#305f71"
+      }
+    ],
+    "body":
+      "I graduated in 2016 with my thesis called 'lett: A persuasive app aimed at facilitating behavior change among cyclists who operate a smartphone screen'. For this thesis I developed, built and released an Android app. Among others, I got more familiar with Persuasive Technology, User Onboarding, the Android SDK, Java, Python, JavaScript, jQuery, MySQL, SQLite, PHP, HTML, CSS, jQuery, Bootstrap, Sketch, Framer, Material Design, Inspectlet and Google Analytics",
+    "linkText": "I am featured at the VU website",
+    "link": "https://bachelors.vu.nl/nl/opleidingen/lifestyle-informatics"
+  },
+  "studio": {
+    "header": "Side Project Studio - \"Founder\"",
+    "tags": [
+      {
+        "key": "s2",
+        "text": "side hustle",
+        "bgColor": "#8b34f3"
+      },
+      {
+        "key": "s3",
+        "text": "side project",
+        "bgColor": "#0bc76d"
+      },
+      {
+        "key": "s4",
+        "text": "looking for a team",
+        "bgColor": "#0bc76d"
+      }
+    ],
+    "body":
+      "I am getting a group of creative and enthusiastic people together to build solutions for problems that we are passionate about. We work in the after hours to ideate, create and launch new products alongside our regular jobs.",
+    "linkText": "Join my side project studio",
+    "link": "https://studio.surge.sh"
+  },
+  "socialapp": {
+    "header": "Social app - Meeting new people with less barriers",
+    "tags": [
+      {
+        "key": "sa1",
+        "text": "social app",
+        "bgColor": "#2030c3"
+      },
+      {
+        "key": "sa2",
+        "text": "design",
+        "bgColor": "#8b34f3"
+      },
+      {
+        "key": "sa3",
+        "text": "react native",
+        "bgColor": "#3941e4"
+      },
+      {
+        "key": "sa4",
+        "text": "join this project",
+        "bgColor": "#05baf8"
+      }
+    ],
+    "body":
+      "Recently, I started thinking about how we could simplify meeting new people. Therefore, I am working on a concept works with hosts and events. Events are organized by hosts, and events always organized in public places. People can sign up for an event simply by attenind. Host are attending the event as well, to make sure everyone can meet in a safe and fun place.",
+    "linkText": "If you like this idea, join my side project studio to work on this idea together.",
+    "link": "https://studio.surge.sh"
+  },
+  "replyhero": {
+    "header": "ReplyHero - UX/UX design",
+    "tags": [
+      {
+        "key": "r1",
+        "text": "UX",
+        "bgColor": "#fb494f"
+      },
+      {
+        "key": "r2",
+        "text": "bootstrap",
+        "bgColor": "#3f5151"
+      },
+      {
+        "key": "r3",
+        "text": "landing Page",
+        "bgColor": "#21282f"
+      },
+      {
+        "key": "r4",
+        "text": "user onboarding",
+        "bgColor": "#38745f"
+      },
+      {
+        "key": "r5",
+        "text": "webflow",
+        "bgColor": "#6564ea"
+      }
+    ],
+    "body":
+      "A friend of mine was working on a new idea to automate email responses. If a few days, I wireframed a new UI for the application and designed and built a new landing page",
+    "linkText": "See ReplyHero's landing page on Behance",
+    "link": "https://www.behance.net/gallery/65572307/Replyhero-landing-page"
+  }
+}

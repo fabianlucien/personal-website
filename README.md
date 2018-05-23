@@ -1,5 +1,5 @@
 ## personal website
-My personal/portfolio website. Designed and build in less then a day. I plan to update it (new feature/pages/..) with every update of my portfolio.
+My personal/portfolio website. Designed and build in less then a day. More features, pages and content coming soon!
 
 ### build with/tools used
 - React
